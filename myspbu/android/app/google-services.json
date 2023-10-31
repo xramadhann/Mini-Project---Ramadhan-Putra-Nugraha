@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "377952599715",
+    "firebase_url": "https://qrxramm-default-rtdb.firebaseio.com",
+    "project_id": "qrxramm",
+    "storage_bucket": "qrxramm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377952599715:android:b89350b6354331498c8916",
+        "android_client_info": {
+          "package_name": "com.example.myspbu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtilk9hlJaIcSTpXb1QWu6jzpZPPgqqU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
